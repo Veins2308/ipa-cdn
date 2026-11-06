@@ -1,6 +1,8 @@
 {
-  "ia_bucket": "veins-ipa-unlimited",
-  "hf_repo": "",
-  "files": {},
-  "updated_at": 1793958621
+  "files": {
+    "Otherworld_Legends_v3.7.0_Decrypted.ipa": "https://raw.githubusercontent.com/Veins2308/ipa-cdn/main/ipas/Otherworld_Legends_v3.7.0_Decrypted.ipa",
+    "Sword_x_Staff_v1.0.4_Decrypted.ipa": "https://raw.githubusercontent.com/Veins2308/ipa-cdn/main/ipas/Sword_x_Staff_v1.0.4_Decrypted.ipa",
+    "TestGame_Encrypted_v1.0.0_Decrypted.ipa": "https://raw.githubusercontent.com/Veins2308/ipa-cdn/main/ipas/TestGame_Encrypted_v1.0.0_Decrypted.ipa"
+  },
+  "updated_at": 1793958910
 }
